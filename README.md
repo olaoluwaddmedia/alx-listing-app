@@ -1,5 +1,3 @@
-## ALX Listing App
-
 # ALX Listing App
 
 The **ALX Listing App** is a web-based property listing interface inspired by platforms like **Airbnb**.  
@@ -63,4 +61,4 @@ The application is fully responsive, adapting smoothly to mobile, tablet, and de
 This structure helps to keep the project **organized, scalable, and easy to maintain**, especially as more pages, features, and data are added.
 Would you like me to now **generate a visual architecture diagram** or **add this explanation into your README.md automatically?** 
 Feel free to edit the text to match your personal style.  
-Would you like me to **add a Project Screenshot section** or **installation instructions**? 😊
+Would you like me to **add a Project Screenshot section** or **installation instructions**?
